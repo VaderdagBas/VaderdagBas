@@ -1,0 +1,46 @@
+body{
+  height: 400px;
+}
+
+#onklikbaarKnopje{
+  width: 10% !important;
+  position: absolute;
+}
+
+p{
+  font-family: cursive;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center !important;
+  margin-top: 300px !important;
+}
+
+#test{
+    background-image: url("../Images/MIB.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: auto;
+    background-color: black !important;
+}
+
+.tekst{
+  margin-top: 50px !important;
+  color: white;
+  font-size: 40px;
+}
+
+#movieTicket1{
+  transform: rotate(20deg);
+  height: 200px;
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 50px;
+}
+#movieTicket2{
+  transform: rotate(340deg);
+  height: 200px;
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 1000px;
+}
